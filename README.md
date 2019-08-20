@@ -50,3 +50,9 @@ YOU DIED.
 - You may write it in any language you want
 - Try rewriting it in another programming language
 - Try adding command line arguments instead of reading from stdin
+
+import random
+- while - 1 == 1:
+- number int(input("Сколько раз:"))
+- dice == d6:
+- print (random.randit(0,7)*nuber)
